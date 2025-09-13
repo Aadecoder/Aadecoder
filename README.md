@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aditya Rajput</h1>
-<h3 align="center">A passionate Frontend developer and Embedded Systems Engineer from India</h3>
+<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #2a2a40); padding: 20px; border-radius: 20px; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hey%20I'm%20Aditya%20&fontColor=ffffff&fontSize=38&desc=Web%20Dev%20%7C%20ECE%20Undergrad%20%7C%20Embedded%20Enthusiast&descAlign=50&descAlignY=65&animation=twinkling" />
+
+
+
+<h3 align="center">🚀 Web Developer | 👨‍💻 Embedded Systems Enthusiast | 🇮🇳 Based in India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadecoder&label=Profile+views&color=0e75b6&style=flat" alt="anuj990" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWd3dGFuZDIzdjh2Z2FqeWJwajNxYTdmbGFkazVyZHhvOGJvNHI3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="300" style="border-radius: 15px;" alt="coding boy" />
+</p>
 
 ---
 
@@ -11,15 +24,18 @@
   I’m constantly learning and experimenting with new technologies to stay at the forefront of innovation.
   Through my projects, I aim to build systems that are not only functional but impactful.
 
-- 🌱 I’m currently learning **MERN stack & Embedded Systems**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/Portfolio/)  
-- 📫 Reach me at **adityandr8274@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1Vxj4X3w_bhysBoo0tKRNOq9cg9UZE4BsXhM_1rPhboA/edit?usp=sharing)  
+🌱 I’m currently learning **MERN stack & Embedded Systems**  
+
+👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/Portfolio/)  
+
+📫 Reach me at **adityandr8274@gmail.com**  
+
+📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1Vxj4X3w_bhysBoo0tKRNOq9cg9UZE4BsXhM_1rPhboA/edit?usp=sharing)  
 
 ---
 
 ### 🤝 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/aadi_rajputr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/aditya-rajput-70372930a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/aadi_rajputr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -28,44 +44,26 @@
 ---
 
 ## 🖥️ Languages  
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
 ---
 
 ## ⚡ Frameworks & Libraries  
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwindcss,opencv" />
 </p>
 
 ---
 
 ## 🔧 Tools & Platforms  
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="#"><img src="https://static.figma.com/app/icon/1/favicon.ico" alt="Figma" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,arduino,linux,matlab,vscode" />
 </p>
 
 ---
 
-## 👨🏻‍💻 Competitative Programming
-<p align="left">
-  <a href="https://www.codechef.com/users/aadecoder" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/aadecoder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
