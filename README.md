@@ -7,10 +7,6 @@
 <h3 align="center">🚀 Web Developer | 👨‍💻 Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadecoder&label=Profile+views&color=0e75b6&style=flat" alt="anuj990" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWd3dGFuZDIzdjh2Z2FqeWJwajNxYTdmbGFkazVyZHhvOGJvNHI3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="300" style="border-radius: 15px;" alt="coding boy" />
 </p>
 
