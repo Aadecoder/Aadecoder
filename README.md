@@ -22,7 +22,7 @@
 
 🌱 I’m currently learning **MERN stack & Embedded Systems**  
 
-👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/Portfolio/)  
+👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/portfolio/)  
 
 📫 Reach me at **adityandr8274@gmail.com**  
 
