@@ -20,9 +20,11 @@
   I’m constantly learning and experimenting with new technologies to stay at the forefront of innovation.
   Through my projects, I aim to build systems that are not only functional but impactful.
 
-🌱 I’m currently learning **MERN stack & Embedded Systems**  
+🌱 I’m currently learning **Embedded Systems & Linux Kernel Development**  
 
-👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/portfolio/)  
+👨‍💻 All of my projects are available at [My Portfolio](https://aadecoder.github.io/portfolio/) 
+
+📑 My Blogs are available at [My Blogs](https://aadecoder.github.io/blogs/) 
 
 📫 Reach me at **adityandr8274@gmail.com**  
 
@@ -39,7 +41,7 @@
 
 ## 🖥️ Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,javascript,lua" />
 </p>
 
 ---
